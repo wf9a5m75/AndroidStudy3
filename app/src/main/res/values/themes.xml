@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WeatherApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorOnPrimary">@color/my_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/my_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/my_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/my_light_secondary</item>
+        <item name="colorOnSecondary">@color/my_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/my_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/my_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/my_light_tertiary</item>
+        <item name="colorOnTertiary">@color/my_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/my_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/my_light_onTertiaryContainer</item>
+        <item name="colorError">@color/my_light_error</item>
+        <item name="colorOnError">@color/my_light_onError</item>
+        <item name="colorErrorContainer">@color/my_light_errorContainer</item>
+        <item name="colorOnErrorContainer">@color/my_light_onErrorContainer</item>
+        <item name="android:colorBackground">@color/my_light_background</item> <item name="colorOnBackground">@color/my_light_onBackground</item>
+        <item name="colorSurface">@color/my_light_surface</item>
+        <item name="colorOnSurface">@color/my_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/my_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/my_light_onSurfaceVariant</item>
+        <item name="colorOutline">@color/my_light_outline</item>
+        <item name="colorOutlineVariant">@color/my_light_outlineVariant</item>
+        <item name="colorSurfaceInverse">@color/my_light_inverseSurface</item>
+        <item name="colorOnSurfaceInverse">@color/my_light_inverseOnSurface</item>
+        <item name="colorPrimaryInverse">@color/my_light_inversePrimary</item>
+    </style>
+</resources>
